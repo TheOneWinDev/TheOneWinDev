@@ -1,9 +1,9 @@
 ### Hello, my name is Sergey Kozlov 👋
-:telescope: I study at the university and actively studying programming, administration and information security.
+I study at the university and actively studying programming, administration and information security.
 
-- :zap:In my free time, I solve problems on LeetCode/JavaRush and read tech articles.
+:zap:In my free time, I solve problems on LeetCode/JavaRush and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sergkzlv/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sergkzlv/)
 <!--
 **TheOneWinDev/TheOneWinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
