@@ -1,5 +1,5 @@
 ### Hello, my name is Sergey Kozlov 👋
-I study at the university and actively studying programming, administration and information security.
+I am in university and actively studying programming, administration and information security.
 
 :zap:In my free time, I solve problems on LeetCode/JavaRush and read tech articles.
 
