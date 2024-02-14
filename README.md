@@ -3,7 +3,7 @@
 
 - :zap:In my free time, I solve problems on LeetCode/JavaRush and read tech articles.
 
-- :mailbox:How to reach me: [(https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergkzlv/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergkzlv/)
 <!--
 **TheOneWinDev/TheOneWinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
