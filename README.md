@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Sergey Kozlov 👋
 :telescope: I study at the university and am actively studying programming, administration and information security.
 
 - :zap:In my free time, I solve problems on LeetCode/JavaRush and read tech articles.
